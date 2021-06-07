@@ -163,8 +163,10 @@
             "name": "Will Kearney",
             "type": "Other"
         },
-        {
+        {            
+            "affiliation": "Pumas-AI",
             "name": "Niklas Korsbo",
+            "orchid": "0000-0001-9811-3190",
             "type": "Other"
         },
         {
